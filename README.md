@@ -15,9 +15,9 @@ To utilize this project, follow these sequential steps:
 
 Begin by executing the Jupyter Notebook included in the project. This notebook contains the necessary code to initialize and train the model. Ensure you have Jupyter installed and run the notebook by navigating to the project directory and executing:
 
-```shell
-model.ipynb
-```
+
+<span style="color: blue;">model.ipynb</span>
+
 
 Navigate to the specific notebook file in the Jupyter interface and run all cells to train the model.
 
@@ -25,9 +25,9 @@ Navigate to the specific notebook file in the Jupyter interface and run all cell
 
 After training the model, the next step is to use it for predictions. This is done through the `predict.py` script. Execute this script in your local environment:
 
-```shell
-predict.py
-```
+
+<span style="color: blue;">predict.py</span>.
+
 
 This script will use the trained model to make salary predictions based on the input data provided.
 
