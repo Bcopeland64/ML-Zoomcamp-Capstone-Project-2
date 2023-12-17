@@ -1,7 +1,7 @@
 # ML-Zoomcamp-Capstone-Project-2
 This is the final capstone project for the ML Zoomcamp
 
-# Project README: Predicting Data Scientist Salaries with Deep Learning
+# Project: Predicting Data Scientist Salaries with Deep Learning
 
 ## Overview
 
@@ -61,5 +61,7 @@ For those who prefer a Dockerized environment, follow these steps:
 ## Screenshots
 
 ![Screenshot from 2023-12-17 19-44-05](https://github.com/Bcopeland64/ML-Zoomcamp-Capstone-Project-2/assets/47774770/8f4abdbb-77fa-46d7-8836-1e3e8d3b3451)
+
+**Screenshot shows predictons when run with Docker**
 
 
