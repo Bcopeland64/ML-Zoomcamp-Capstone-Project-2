@@ -16,7 +16,7 @@ To utilize this project, follow these sequential steps:
 Begin by executing the Jupyter Notebook included in the project. This notebook contains the necessary code to initialize and train the model. Ensure you have Jupyter installed and run the notebook by navigating to the project directory and executing:
 
 ```shell
-jupyter notebook
+[jupyter notebook](https://github.com/Bcopeland64/ML-Zoomcamp-Capstone-Project-2/blob/main/Capstone%20Project%202/model.ipynb)
 ```
 
 Navigate to the specific notebook file in the Jupyter interface and run all cells to train the model.
@@ -26,7 +26,7 @@ Navigate to the specific notebook file in the Jupyter interface and run all cell
 After training the model, the next step is to use it for predictions. This is done through the `predict.py` script. Execute this script in your local environment:
 
 ```shell
-python predict.py
+[python predict.py](https://github.com/Bcopeland64/ML-Zoomcamp-Capstone-Project-2/blob/main/Capstone%20Project%202/predict.py)
 ```
 
 This script will use the trained model to make salary predictions based on the input data provided.
